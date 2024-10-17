@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -28,3 +29,35 @@ Global
 		SolutionGuid = {C0D6690F-CF8D-432F-8858-48B1F34D06FF}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "beecrowd", "beecrowd", "{BF7CAE39-011C-4012-B1DA-34BFA7CF54EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1143", "beecrowd\1143\1143.csproj", "{5AA9C63F-F9DA-4FA1-BBCD-BAF73B21D425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AA9C63F-F9DA-4FA1-BBCD-BAF73B21D425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA9C63F-F9DA-4FA1-BBCD-BAF73B21D425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA9C63F-F9DA-4FA1-BBCD-BAF73B21D425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA9C63F-F9DA-4FA1-BBCD-BAF73B21D425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5AA9C63F-F9DA-4FA1-BBCD-BAF73B21D425} = {BF7CAE39-011C-4012-B1DA-34BFA7CF54EE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0D6690F-CF8D-432F-8858-48B1F34D06FF}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 24933140f2ea2c9afe7adddd72647b8dd7fb8137

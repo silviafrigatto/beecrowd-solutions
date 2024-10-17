@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 C:\csharp-problems\beecrowd\1145\obj\Debug\net8.0\1145.GeneratedMSBuildEditorConfig.editorconfig
 C:\csharp-problems\beecrowd\1145\obj\Debug\net8.0\1145.AssemblyInfoInputs.cache
 C:\csharp-problems\beecrowd\1145\obj\Debug\net8.0\1145.AssemblyInfo.cs
 C:\csharp-problems\beecrowd\1145\obj\Debug\net8.0\1145.csproj.CoreCompileInputs.cache
+=======
+C:\csharp-problems\beecrowd\1145\obj\Debug\net8.0\1145.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp-problems\beecrowd\1145\obj\Debug\net8.0\1145.AssemblyInfoInputs.cache
+C:\csharp-problems\beecrowd\1145\obj\Debug\net8.0\1145.AssemblyInfo.cs
+C:\csharp-problems\beecrowd\1145\obj\Debug\net8.0\1145.csproj.CoreCompileInputs.cache
+>>>>>>> 24933140f2ea2c9afe7adddd72647b8dd7fb8137

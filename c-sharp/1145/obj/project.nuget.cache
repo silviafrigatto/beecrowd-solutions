@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "5fMVH69qAbg=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\csharp-problems\\beecrowd\\1145\\1145.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "5fMVH69qAbg=",
+  "success": true,
+  "projectFilePath": "C:\\csharp-problems\\beecrowd\\1145\\1145.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 24933140f2ea2c9afe7adddd72647b8dd7fb8137
 }

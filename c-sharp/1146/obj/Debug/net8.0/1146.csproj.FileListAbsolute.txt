@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\beecrowd\c-sharp\1146\bin\Debug\net8.0\1146.exe
 C:\beecrowd\c-sharp\1146\bin\Debug\net8.0\1146.deps.json
 C:\beecrowd\c-sharp\1146\bin\Debug\net8.0\1146.runtimeconfig.json
@@ -12,3 +13,19 @@ C:\beecrowd\c-sharp\1146\obj\Debug\net8.0\refint\1146.dll
 C:\beecrowd\c-sharp\1146\obj\Debug\net8.0\1146.pdb
 C:\beecrowd\c-sharp\1146\obj\Debug\net8.0\1146.genruntimeconfig.cache
 C:\beecrowd\c-sharp\1146\obj\Debug\net8.0\ref\1146.dll
+=======
+C:\beecrowd\c-sharp\1146\bin\Debug\net8.0\1146.exe
+C:\beecrowd\c-sharp\1146\bin\Debug\net8.0\1146.deps.json
+C:\beecrowd\c-sharp\1146\bin\Debug\net8.0\1146.runtimeconfig.json
+C:\beecrowd\c-sharp\1146\bin\Debug\net8.0\1146.dll
+C:\beecrowd\c-sharp\1146\bin\Debug\net8.0\1146.pdb
+C:\beecrowd\c-sharp\1146\obj\Debug\net8.0\1146.GeneratedMSBuildEditorConfig.editorconfig
+C:\beecrowd\c-sharp\1146\obj\Debug\net8.0\1146.AssemblyInfoInputs.cache
+C:\beecrowd\c-sharp\1146\obj\Debug\net8.0\1146.AssemblyInfo.cs
+C:\beecrowd\c-sharp\1146\obj\Debug\net8.0\1146.csproj.CoreCompileInputs.cache
+C:\beecrowd\c-sharp\1146\obj\Debug\net8.0\1146.dll
+C:\beecrowd\c-sharp\1146\obj\Debug\net8.0\refint\1146.dll
+C:\beecrowd\c-sharp\1146\obj\Debug\net8.0\1146.pdb
+C:\beecrowd\c-sharp\1146\obj\Debug\net8.0\1146.genruntimeconfig.cache
+C:\beecrowd\c-sharp\1146\obj\Debug\net8.0\ref\1146.dll
+>>>>>>> 24933140f2ea2c9afe7adddd72647b8dd7fb8137
