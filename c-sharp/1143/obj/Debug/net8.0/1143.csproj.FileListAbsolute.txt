@@ -1,0 +1,14 @@
+C:\csharp-problems\beecrowd\1143\obj\Debug\net8.0\1143.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp-problems\beecrowd\1143\obj\Debug\net8.0\1143.AssemblyInfoInputs.cache
+C:\csharp-problems\beecrowd\1143\obj\Debug\net8.0\1143.AssemblyInfo.cs
+C:\csharp-problems\beecrowd\1143\obj\Debug\net8.0\1143.csproj.CoreCompileInputs.cache
+C:\csharp-problems\beecrowd\1143\bin\Debug\net8.0\1143.exe
+C:\csharp-problems\beecrowd\1143\bin\Debug\net8.0\1143.deps.json
+C:\csharp-problems\beecrowd\1143\bin\Debug\net8.0\1143.runtimeconfig.json
+C:\csharp-problems\beecrowd\1143\bin\Debug\net8.0\1143.dll
+C:\csharp-problems\beecrowd\1143\bin\Debug\net8.0\1143.pdb
+C:\csharp-problems\beecrowd\1143\obj\Debug\net8.0\1143.dll
+C:\csharp-problems\beecrowd\1143\obj\Debug\net8.0\refint\1143.dll
+C:\csharp-problems\beecrowd\1143\obj\Debug\net8.0\1143.pdb
+C:\csharp-problems\beecrowd\1143\obj\Debug\net8.0\1143.genruntimeconfig.cache
+C:\csharp-problems\beecrowd\1143\obj\Debug\net8.0\ref\1143.dll

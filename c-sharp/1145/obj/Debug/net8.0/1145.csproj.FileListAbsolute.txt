@@ -1,0 +1,4 @@
+C:\csharp-problems\beecrowd\1145\obj\Debug\net8.0\1145.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp-problems\beecrowd\1145\obj\Debug\net8.0\1145.AssemblyInfoInputs.cache
+C:\csharp-problems\beecrowd\1145\obj\Debug\net8.0\1145.AssemblyInfo.cs
+C:\csharp-problems\beecrowd\1145\obj\Debug\net8.0\1145.csproj.CoreCompileInputs.cache
