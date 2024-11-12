@@ -10,13 +10,17 @@ internal class Program
         string input = Console.ReadLine()!;
         string[] valores = input.Split(' ');   
 
-
         if (valores.Length == 2 && int.TryParse(valores[0], out int a) && int.TryParse(valores[1], out int n))
         {
+            do
+            {
+                n = int.Parse(Console.ReadLine()!);
+            } while (n <= 0);
+
             for (int i = 0; i < n; i++)
             {
                 int termo = a + i * r;  // Formula PA
-                Console.WriteLine(termo);
+                //Console.WriteLine(termo);
                 somaDosConsecutivos += termo;
             } 
             Console.WriteLine(somaDosConsecutivos);    
