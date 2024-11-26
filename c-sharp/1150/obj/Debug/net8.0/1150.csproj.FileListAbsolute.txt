@@ -1,0 +1,15 @@
+C:\beecrowd-solutions\c-sharp\1150\obj\Debug\net8.0\1150.GeneratedMSBuildEditorConfig.editorconfig
+C:\beecrowd-solutions\c-sharp\1150\obj\Debug\net8.0\1150.AssemblyInfoInputs.cache
+C:\beecrowd-solutions\c-sharp\1150\obj\Debug\net8.0\1150.AssemblyInfo.cs
+C:\beecrowd-solutions\c-sharp\1150\obj\Debug\net8.0\1150.csproj.CoreCompileInputs.cache
+C:\beecrowd-solutions\c-sharp\1150\obj\Debug\net8.0\1150.sourcelink.json
+C:\beecrowd-solutions\c-sharp\1150\bin\Debug\net8.0\1150.exe
+C:\beecrowd-solutions\c-sharp\1150\bin\Debug\net8.0\1150.deps.json
+C:\beecrowd-solutions\c-sharp\1150\bin\Debug\net8.0\1150.runtimeconfig.json
+C:\beecrowd-solutions\c-sharp\1150\bin\Debug\net8.0\1150.dll
+C:\beecrowd-solutions\c-sharp\1150\bin\Debug\net8.0\1150.pdb
+C:\beecrowd-solutions\c-sharp\1150\obj\Debug\net8.0\1150.dll
+C:\beecrowd-solutions\c-sharp\1150\obj\Debug\net8.0\refint\1150.dll
+C:\beecrowd-solutions\c-sharp\1150\obj\Debug\net8.0\1150.pdb
+C:\beecrowd-solutions\c-sharp\1150\obj\Debug\net8.0\1150.genruntimeconfig.cache
+C:\beecrowd-solutions\c-sharp\1150\obj\Debug\net8.0\ref\1150.dll
